@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522166475301",
+    "project_id": "planespott-ad6b6",
+    "storage_bucket": "planespott-ad6b6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522166475301:android:c6de49dd9fc8e36d443dcc",
+        "android_client_info": {
+          "package_name": "com.example.planespott"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOvXd-fFXseZ7GpxCzi8qFrI7g0Tp1CnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
